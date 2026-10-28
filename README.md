@@ -1,6 +1,10 @@
 <a id="top"></a>
 <p align="center">
-  <img src="assets/banner.svg" alt="FAITT — One line of code. One step forward." width="100%" />
+  <img src="assets/banner.svg" alt="FAITT — Samurai spirit, learning journey." width="100%" />
+</p>
+
+<p align="center">
+  <img src="assets/samurai-dragon.webp" alt="Samurai đối diện rồng giữa núi và sương xanh ngọc — ảnh động lặp" width="100%" />
 </p>
 
 <p align="center">
@@ -20,8 +24,8 @@
 
 Mình đang học **C++**, rèn tư duy giải quyết vấn đề và thử những ý tưởng mới qua từng dòng code. Đây là góc nhỏ để mình ghi lại hành trình học hỏi — từng chút một, mỗi ngày.
 
-> **Một dòng code. Một bước tiến.**  
-> Tò mò để bắt đầu. Kiên trì để tiếp tục.
+> **Tĩnh tâm học hỏi. Kiên trì tiến bước.**  
+> Một dòng code. Một bước tiến.
 
 <details>
 <summary><b>🌐 Read my introduction in English</b></summary>
@@ -54,9 +58,9 @@ int main() {
 ## 02 / Học hỏi & khám phá
 
 <p>
-  <a href="https://github.com/tai210507?tab=repositories&amp;q=language%3AC%2B%2B"><img src="https://img.shields.io/badge/C%2B%2B-AC83FF?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=0D1117" alt="Xem các repository C++" /></a>
-  <a href="https://github.com/tai210507?tab=repositories&amp;q=Lab"><img src="https://img.shields.io/badge/PROBLEM_SOLVING-161B22?style=for-the-badge&amp;logo=thealgorithms&amp;logoColor=50E4DE" alt="Xem các bài Lab" /></a>
-  <a href="https://github.com/tai210507?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&amp;logo=github&amp;logoColor=AC83FF" alt="Xem tất cả repository" /></a>
+  <a href="https://github.com/tai210507?tab=repositories&amp;q=language%3AC%2B%2B"><img src="https://img.shields.io/badge/C%2B%2B-34D9C3?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=06151D" alt="Xem các repository C++" /></a>
+  <a href="https://github.com/tai210507?tab=repositories&amp;q=Lab"><img src="https://img.shields.io/badge/PROBLEM_SOLVING-071D26?style=for-the-badge&amp;logo=thealgorithms&amp;logoColor=57DEEB" alt="Xem các bài Lab" /></a>
+  <a href="https://github.com/tai210507?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-071D26?style=for-the-badge&amp;logo=github&amp;logoColor=34D9C3" alt="Xem tất cả repository" /></a>
 </p>
 
 <sub>Bấm vào từng huy hiệu để khám phá mã nguồn tương ứng.</sub>
@@ -88,7 +92,7 @@ int main() {
 
 <a id="play"></a>
 
-## 03 / Code break
+## 03 / Code dojo
 
 **Thử một câu C++ nhỏ nhé:** chương trình này in ra số nào?
 
@@ -124,8 +128,8 @@ Kết quả là **6**: các chữ số được cộng theo thứ tự `3 + 0 + 
 ## 04 / GitHub pulse
 
 <p>
-  <a href="https://github.com/tai210507?tab=followers"><img src="https://img.shields.io/github/followers/tai210507?style=for-the-badge&amp;label=FOLLOWERS&amp;color=AC83FF&amp;labelColor=161B22&amp;logo=github&amp;logoColor=AC83FF" alt="Số người theo dõi — bấm để xem trên GitHub" /></a>
-  <a href="https://github.com/tai210507?tab=repositories&amp;sort=stargazers"><img src="https://img.shields.io/github/stars/tai210507?style=for-the-badge&amp;label=STARS&amp;color=50E4DE&amp;labelColor=161B22&amp;logo=github&amp;logoColor=50E4DE" alt="Số sao các repo công khai — bấm để xem repository" /></a>
+  <a href="https://github.com/tai210507?tab=followers"><img src="https://img.shields.io/github/followers/tai210507?style=for-the-badge&amp;label=FOLLOWERS&amp;color=34D9C3&amp;labelColor=071D26&amp;logo=github&amp;logoColor=34D9C3" alt="Số người theo dõi — bấm để xem trên GitHub" /></a>
+  <a href="https://github.com/tai210507?tab=repositories&amp;sort=stargazers"><img src="https://img.shields.io/github/stars/tai210507?style=for-the-badge&amp;label=STARS&amp;color=57DEEB&amp;labelColor=071D26&amp;logo=github&amp;logoColor=57DEEB" alt="Số sao các repo công khai — bấm để xem repository" /></a>
 </p>
 
 [Khám phá các repository ↗](https://github.com/tai210507?tab=repositories) · [Xem hoạt động đóng góp ↗](https://github.com/tai210507?tab=overview)
@@ -149,5 +153,8 @@ Kết quả là **6**: các chữ số được cộng theo thứ tự `3 + 0 + 
 
 <sub>Lời nhắn được đăng công khai bằng tài khoản GitHub của bạn sau khi bạn nhấn tạo issue.</sub>
 
+<p align="center"><sub>Samurai artwork: Your Live Wallpaper · <a href="ASSET-SOURCES.md">Visual credits</a></sub></p>
+
 <br />
 <p align="center"><img src="assets/footer.svg" alt="Thanks for stopping by. Keep learning. Keep building." width="100%" /></p>
+
