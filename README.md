@@ -4,10 +4,10 @@
 </p>
 
 <p align="center">
-  <a href="#about"><img src="assets/nav-about.svg" alt="01 · Về mình" width="170" /></a>
-  <a href="#learning"><img src="assets/nav-learning.svg" alt="02 · Đang học" width="170" /></a>
-  <a href="#play"><img src="assets/nav-play.svg" alt="03 · Câu đố C++" width="170" /></a>
-  <a href="#connect"><img src="assets/nav-connect.svg" alt="04 · Kết nối" width="170" /></a>
+  <a href="#user-content-about"><img src="assets/nav-about.svg" alt="01 · Về mình" width="170" /></a>
+  <a href="#user-content-learning"><img src="assets/nav-learning.svg" alt="02 · Đang học" width="170" /></a>
+  <a href="#user-content-play"><img src="assets/nav-play.svg" alt="03 · Câu đố C++" width="170" /></a>
+  <a href="#user-content-connect"><img src="assets/nav-connect.svg" alt="04 · Kết nối" width="170" /></a>
 </p>
 
 <p align="center"><sub>Nhấn menu để khám phá · Bấm ▸ để mở các mục bên dưới</sub></p>
@@ -145,7 +145,7 @@ Kết quả là **6**: các chữ số được cộng theo thứ tự `3 + 0 + 
 
 **Có chung hứng thú với lập trình?** Bạn có thể gửi lời chào, góp ý cho profile hoặc chia sẻ một điều vừa học được.
 
-[✉️ Viết lời chào](https://github.com/tai210507/tai210507/issues/new?template=hello.yml) · [💬 Đọc các lời nhắn](https://github.com/tai210507/tai210507/issues?q=is%3Aissue%20%22Hello%22%20in%3Atitle) · [↑ Về đầu trang](#top)
+[✉️ Viết lời chào](https://github.com/tai210507/tai210507/issues/new?template=hello.yml) · [💬 Đọc các lời nhắn](https://github.com/tai210507/tai210507/issues?q=is%3Aissue%20%22Hello%22%20in%3Atitle) · [↑ Về đầu trang](#user-content-top)
 
 <sub>Lời nhắn được đăng công khai bằng tài khoản GitHub của bạn sau khi bạn nhấn tạo issue.</sub>
 
