@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm FAITT 👋
 
 <!--
 **tai210507/tai210507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
