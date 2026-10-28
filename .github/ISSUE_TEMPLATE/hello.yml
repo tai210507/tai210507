@@ -1,0 +1,26 @@
+name: "Say hello 👋"
+description: "Gửi lời chào, góp ý cho profile hoặc chia sẻ chuyện học lập trình."
+title: "[Hello] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Chào bạn, mình là FAITT 👋
+        Cảm ơn bạn đã ghé thăm! Lời nhắn này sẽ hiển thị công khai sau khi bạn tạo issue.
+  - type: dropdown
+    id: topic
+    attributes:
+      label: "Bạn ghé qua để…"
+      options:
+        - "Gửi một lời chào 👋"
+        - "Chia sẻ chuyện học lập trình 💻"
+        - "Góp ý cho profile ✨"
+    validations:
+      required: true
+  - type: textarea
+    id: message
+    attributes:
+      label: "Lời nhắn của bạn"
+      placeholder: "Chào FAITT! Mình cũng đang học C++…"
+    validations:
+      required: true
