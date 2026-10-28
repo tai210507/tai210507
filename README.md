@@ -13,6 +13,7 @@
 <p align="center"><sub>Nhấn menu để khám phá · Bấm ▸ để mở các mục bên dưới</sub></p>
 
 <a id="about"></a>
+
 ## 01 / Một chút về mình
 
 ### Chào bạn, mình là FAITT 👋
@@ -47,7 +48,9 @@ int main() {
 </details>
 
 <br />
+
 <a id="learning"></a>
+
 ## 02 / Học hỏi & khám phá
 
 <p>
@@ -82,7 +85,9 @@ int main() {
 </details>
 
 <br />
+
 <a id="play"></a>
+
 ## 03 / Code break
 
 **Thử một câu C++ nhỏ nhé:** chương trình này in ra số nào?
@@ -113,7 +118,9 @@ Kết quả là **6**: các chữ số được cộng theo thứ tự `3 + 0 + 
 </details>
 
 <br />
+
 <a id="pulse"></a>
+
 ## 04 / GitHub pulse
 
 <p>
@@ -126,7 +133,9 @@ Kết quả là **6**: các chữ số được cộng theo thứ tự `3 + 0 + 
 <sub>Huy hiệu lấy dữ liệu công khai từ GitHub qua Shields.io và có thể cập nhật chậm do bộ nhớ đệm.</sub>
 
 <br />
+
 <a id="connect"></a>
+
 ## 05 / Để lại một lời chào
 
 <p align="center">
