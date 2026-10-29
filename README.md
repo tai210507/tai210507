@@ -8,10 +8,10 @@
 </p>
 
 <p align="center">
-  <a href="#user-content-about"><img src="assets/nav-about.svg" alt="01 · Về mình" width="170" /></a>
-  <a href="#user-content-learning"><img src="assets/nav-learning.svg" alt="02 · Đang học" width="170" /></a>
-  <a href="#user-content-play"><img src="assets/nav-play.svg" alt="03 · Câu đố C++" width="170" /></a>
-  <a href="#user-content-connect"><img src="assets/nav-connect.svg" alt="05 · Kết nối" width="170" /></a>
+  <a href="#user-content-about"><img src="assets/nav-about.svg" alt="01 · Về mình" width="170" title="01 · Về mình" /></a>
+  <a href="#user-content-learning"><img src="assets/nav-learning.svg" alt="02 · Đang học" width="170" title="02 · Đang học" /></a>
+  <a href="#user-content-play"><img src="assets/nav-play.svg" alt="03 · Câu đố C++" width="170" title="03 · Câu đố C++" /></a>
+  <a href="#user-content-connect"><img src="assets/nav-connect.svg" alt="05 · Kết nối" width="170" title="05 · Kết nối" /></a>
 </p>
 
 <p align="center"><sub>Nhấn menu để khám phá · Bấm ▸ để mở các mục bên dưới</sub></p>
@@ -58,9 +58,9 @@ int main() {
 ## 02 / Quỹ đạo học tập
 
 <p>
-  <a href="https://github.com/tai210507?tab=repositories&amp;q=language%3AC%2B%2B"><img src="https://img.shields.io/badge/C%2B%2B-E6AA67?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=100D0B" alt="Xem các repository C++" /></a>
-  <a href="https://github.com/tai210507?tab=repositories&amp;q=Lab"><img src="https://img.shields.io/badge/PROBLEM_SOLVING-17110D?style=for-the-badge&amp;logo=thealgorithms&amp;logoColor=F1D2A6" alt="Xem các bài Lab" /></a>
-  <a href="https://github.com/tai210507?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-17110D?style=for-the-badge&amp;logo=github&amp;logoColor=E6AA67" alt="Xem tất cả repository" /></a>
+  <a href="https://github.com/tai210507?tab=repositories&amp;q=language%3AC%2B%2B"><img src="https://img.shields.io/badge/C%2B%2B-F2C078?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=100D0B" alt="Xem các repository C++" title="Xem các repository C++" /></a>
+  <a href="https://github.com/tai210507?tab=repositories&amp;q=Lab"><img src="https://img.shields.io/badge/PROBLEM_SOLVING-344151?style=for-the-badge&amp;logo=thealgorithms&amp;logoColor=FFE0AD" alt="Xem các bài Lab" title="Xem các bài Lab" /></a>
+  <a href="https://github.com/tai210507?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-344151?style=for-the-badge&amp;logo=github&amp;logoColor=FFD49A" alt="Xem tất cả repository" title="Xem tất cả repository" /></a>
 </p>
 
 <sub>Bấm vào từng huy hiệu để khám phá mã nguồn tương ứng.</sub>
@@ -128,8 +128,8 @@ Kết quả là **6**: các chữ số được cộng theo thứ tự `3 + 0 + 
 ## 04 / Tín hiệu GitHub
 
 <p>
-  <a href="https://github.com/tai210507?tab=followers"><img src="https://img.shields.io/github/followers/tai210507?style=for-the-badge&amp;label=FOLLOWERS&amp;color=E6AA67&amp;labelColor=17110D&amp;logo=github&amp;logoColor=E6AA67" alt="Số người theo dõi — bấm để xem trên GitHub" /></a>
-  <a href="https://github.com/tai210507?tab=repositories&amp;sort=stargazers"><img src="https://img.shields.io/github/stars/tai210507?style=for-the-badge&amp;label=STARS&amp;color=F1D2A6&amp;labelColor=17110D&amp;logo=github&amp;logoColor=F1D2A6" alt="Số sao các repo công khai — bấm để xem repository" /></a>
+  <a href="https://github.com/tai210507?tab=followers"><img src="https://img.shields.io/github/followers/tai210507?style=for-the-badge&amp;label=FOLLOWERS&amp;color=F2C078&amp;labelColor=344151&amp;logo=github&amp;logoColor=FFD49A" alt="Số người theo dõi — bấm để xem trên GitHub" title="Số người theo dõi — bấm để xem trên GitHub" /></a>
+  <a href="https://github.com/tai210507?tab=repositories&amp;sort=stargazers"><img src="https://img.shields.io/github/stars/tai210507?style=for-the-badge&amp;label=STARS&amp;color=FFE0AD&amp;labelColor=344151&amp;logo=github&amp;logoColor=FFE0AD" alt="Số sao các repo công khai — bấm để xem repository" title="Số sao các repo công khai — bấm để xem repository" /></a>
 </p>
 
 [Khám phá các repository ↗](https://github.com/tai210507?tab=repositories) · [Xem hoạt động đóng góp ↗](https://github.com/tai210507?tab=overview)
@@ -143,8 +143,8 @@ Kết quả là **6**: các chữ số được cộng theo thứ tự `3 + 0 + 
 ## 05 / Mở kênh kết nối
 
 <p align="center">
-  <a href="https://github.com/tai210507?tab=repositories"><img src="assets/card-code.svg" alt="Khám phá mã nguồn của FAITT" width="390" /></a>
-  <a href="https://github.com/tai210507/tai210507/issues/new?template=hello.yml"><img src="assets/card-hello.svg" alt="Gửi một tín hiệu cho FAITT qua GitHub Issues" width="390" /></a>
+  <a href="https://github.com/tai210507?tab=repositories"><img src="assets/card-code.svg" alt="Khám phá mã nguồn của FAITT" width="390" title="Khám phá mã nguồn của FAITT" /></a>
+  <a href="https://github.com/tai210507/tai210507/issues/new?template=hello.yml"><img src="assets/card-hello.svg" alt="Gửi một tín hiệu cho FAITT qua GitHub Issues" width="390" title="Gửi một tín hiệu cho FAITT qua GitHub Issues" /></a>
 </p>
 
 **Có chung hứng thú với lập trình?** Bạn có thể gửi lời chào, góp ý cho profile hoặc chia sẻ một điều vừa học được.
