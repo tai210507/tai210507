@@ -4,10 +4,8 @@
 </p>
 
 <p align="center">
-  <img src="assets/interstellar-pixel-banner.webp" alt="FAITT chữ pixel ở chính giữa banner hố đen Interstellar cỡ lớn" width="100%" />
+  <a href="https://faitt-interstellar.windydrake13.chatgpt.site/" title="Mở website portfolio của FAITT"><img src="assets/interstellar-portfolio-banner.webp" alt="FAITT — banner Interstellar với nút Portfolio dưới dòng C++ / Problem Solving / Curiosity" width="100%" /></a>
 </p>
-
-<p align="center"><a href="https://faitt-interstellar.windydrake13.chatgpt.site/" title="Mở website portfolio của FAITT"><b>Website portfolio ↗</b></a></p>
 
 <p align="center">
   <a href="#user-content-about"><img src="assets/nav-about.svg" alt="01 · Giới thiệu" width="170" title="Giới thiệu về FAITT" /></a>
