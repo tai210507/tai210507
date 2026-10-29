@@ -7,6 +7,8 @@
   <img src="assets/interstellar-pixel-banner.webp" alt="FAITT chữ pixel ở chính giữa banner hố đen Interstellar cỡ lớn" width="100%" />
 </p>
 
+<p align="center"><a href="https://faitt-interstellar.windydrake13.chatgpt.site/" title="Mở website portfolio của FAITT"><b>Website portfolio ↗</b></a></p>
+
 <p align="center">
   <a href="#user-content-about"><img src="assets/nav-about.svg" alt="01 · Giới thiệu" width="170" title="Giới thiệu về FAITT" /></a>
   <a href="#user-content-learning"><img src="assets/nav-learning.svg" alt="02 · Đang học" width="170" title="Nội dung đang học" /></a>
@@ -52,8 +54,6 @@ Mình là **FAITT** (@tai210507), đang học lập trình với **C++**.
 <a id="connect"></a>
 
 ## 04 / Liên hệ
-
-<p align="center"><a href="https://faitt-interstellar.windydrake13.chatgpt.site/" title="Mở website portfolio của FAITT"><b>Website portfolio ↗</b></a></p>
 
 <p align="center">
   <a href="https://github.com/tai210507?tab=repositories"><img src="assets/card-code.svg" alt="Xem mã nguồn" width="390" title="Xem repositories của FAITT" /></a>
