@@ -1,12 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="560" height="212" viewBox="0 0 560 212" role="img" aria-label="Gửi một tín hiệu"><title>Gửi một tín hiệu</title>
-<defs><radialGradient id="glow" cx="100%" cy="0%" r="90%"><stop stop-color="#38261B"/><stop offset="1" stop-color="#0A090B"/></radialGradient></defs>
-<rect x="0.5" y="0.5" width="559" height="211" rx="14" fill="url(#glow)" stroke="#443124"/>
-<circle cx="510" cy="48" r="25" fill="none" stroke="#745132" stroke-opacity="0.6"/>
-<ellipse cx="510" cy="48" rx="39" ry="10" transform="rotate(-28 510 48)" fill="none" stroke="#E6AA67" stroke-opacity="0.55"/>
-<text x="28" y="36" font-family="DejaVu Sans Mono,monospace" font-size="12" letter-spacing="1.8" fill="#E6AA67">02 / OPEN CHANNEL</text>
-<text x="28" y="87" font-family="DejaVu Sans,Arial,sans-serif" font-size="27" font-weight="600" fill="#F4EFE8">Gửi một tín hiệu</text>
-<text x="28" y="121" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" fill="#A59E97">Một lời chào. Một kết nối mới.</text>
-<path d="M28 149H532" stroke="#433025"/>
-<text x="28" y="183" font-family="DejaVu Sans Mono,monospace" font-size="12" letter-spacing="1.5" fill="#E6AA67">SAY HELLO</text>
-<path d="M512 171L521 180L512 189 M497 180H521" fill="none" stroke="#E6AA67" stroke-width="1.4"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="82" viewBox="0 0 390 82" role="img" aria-label="Gửi lời chào">
+<title>Gửi lời chào</title>
+<rect x="0.5" y="0.5" width="389" height="81" rx="12" fill="#14171C" stroke="#2B2E34"/>
+<g stroke="#D9B98F" stroke-width="1.7" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M22 29h24v18H22z m0 0 12 10 12-10"/></g>
+<text x="66" y="35" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="600" fill="#ECE8E2">Gửi lời chào</text>
+<text x="66" y="57" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" fill="#A2A5AB">Một lời nhắn trên GitHub</text>
+<path d="M354 32h12v12m-12 0 12-12" fill="none" stroke="#D9B98F" stroke-width="1.5"/>
 </svg>
