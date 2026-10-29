@@ -20,8 +20,7 @@
 
 ## 01 / Giới thiệu
 
-Mình là **FAITT** (@tai210507), đang học lập trình với **C++**.  
-Mình tập trung vào cấu trúc dữ liệu, thuật toán và rèn kỹ năng giải quyết vấn đề.
+Mình là **FAITT** (@tai210507), đang học lập trình với **C++**.
 
 <br />
 
@@ -37,9 +36,7 @@ Mình tập trung vào cấu trúc dữ liệu, thuật toán và rèn kỹ năn
 
 | Nội dung | Đang tìm hiểu |
 | :--- | :--- |
-| **C++** | Mảng, hàm và xử lý dữ liệu |
-| **Cấu trúc dữ liệu** | Danh sách liên kết, cây nhị phân |
-| **Thuật toán** | Sắp xếp và tìm kiếm |
+| **C++** | |
 
 <br />
 
