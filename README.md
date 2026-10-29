@@ -10,8 +10,7 @@
 <p align="center">
   <a href="#user-content-about"><img src="assets/nav-about.svg" alt="01 · Về mình" width="170" title="01 · Về mình" /></a>
   <a href="#user-content-learning"><img src="assets/nav-learning.svg" alt="02 · Đang học" width="170" title="02 · Đang học" /></a>
-  <a href="#user-content-play"><img src="assets/nav-play.svg" alt="03 · Câu đố C++" width="170" title="03 · Câu đố C++" /></a>
-  <a href="#user-content-connect"><img src="assets/nav-connect.svg" alt="05 · Kết nối" width="170" title="05 · Kết nối" /></a>
+  <a href="#user-content-connect"><img src="assets/nav-connect.svg" alt="04 · Kết nối" width="170" title="04 · Kết nối" /></a>
 </p>
 
 <p align="center"><sub>Nhấn menu để khám phá · Bấm ▸ để mở các mục bên dưới</sub></p>
@@ -90,42 +89,9 @@ int main() {
 
 <br />
 
-<a id="play"></a>
-
-## 03 / Trạm thử C++
-
-**Thử một câu C++ nhỏ nhé:** chương trình này in ra số nào?
-
-```cpp
-int n = 1203, sum = 0;
-while (n > 0) {
-    sum += n % 10;
-    n /= 10;
-}
-std::cout << sum;
-```
-
-<details>
-<summary><b>💡 Mở gợi ý</b></summary>
-
-`n % 10` lấy chữ số cuối. Với số nguyên dương, `n /= 10` bỏ chữ số cuối đó.
-
-</details>
-
-<details>
-<summary><b>✨ Mở đáp án</b></summary>
-
-Kết quả là **6**: các chữ số được cộng theo thứ tự `3 + 0 + 2 + 1`.
-
-Đoạn code giả sử đã có `#include <iostream>` và được đặt trong `main()`.
-
-</details>
-
-<br />
-
 <a id="pulse"></a>
 
-## 04 / Tín hiệu GitHub
+## 03 / Tín hiệu GitHub
 
 <p>
   <a href="https://github.com/tai210507?tab=followers"><img src="https://img.shields.io/github/followers/tai210507?style=for-the-badge&amp;label=FOLLOWERS&amp;color=F2C078&amp;labelColor=344151&amp;logo=github&amp;logoColor=FFD49A" alt="Số người theo dõi — bấm để xem trên GitHub" title="Số người theo dõi — bấm để xem trên GitHub" /></a>
@@ -140,7 +106,7 @@ Kết quả là **6**: các chữ số được cộng theo thứ tự `3 + 0 + 
 
 <a id="connect"></a>
 
-## 05 / Mở kênh kết nối
+## 04 / Mở kênh kết nối
 
 <p align="center">
   <a href="https://github.com/tai210507?tab=repositories"><img src="assets/card-code.svg" alt="Khám phá mã nguồn của FAITT" width="390" title="Khám phá mã nguồn của FAITT" /></a>
