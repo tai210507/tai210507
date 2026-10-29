@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/interstellar-black-hole.webp" alt="Hố đen Gargantua với đĩa bồi tụ phát sáng — banner động FAITT / Interstellar" width="100%" />
+  <img src="assets/interstellar-pixel-banner.webp" alt="FAITT chữ pixel ở chính giữa banner hố đen Interstellar cỡ lớn" width="100%" />
 </p>
 
 <p align="center">
