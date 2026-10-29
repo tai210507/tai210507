@@ -53,6 +53,8 @@ Mình là **FAITT** (@tai210507), đang học lập trình với **C++**.
 
 ## 04 / Liên hệ
 
+<p align="center"><a href="https://faitt-interstellar.windydrake13.chatgpt.site/" title="Mở website portfolio của FAITT"><b>Website portfolio ↗</b></a></p>
+
 <p align="center">
   <a href="https://github.com/tai210507?tab=repositories"><img src="assets/card-code.svg" alt="Xem mã nguồn" width="390" title="Xem repositories của FAITT" /></a>
   <a href="https://github.com/tai210507/tai210507/issues/new?template=hello.yml"><img src="assets/card-hello.svg" alt="Gửi lời nhắn" width="390" title="Viết lời nhắn công khai qua GitHub Issues" /></a>
