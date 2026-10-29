@@ -34,10 +34,6 @@ Mình là **FAITT** (@tai210507), đang học lập trình với **C++**.
   <a href="https://github.com/tai210507?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-344151?style=for-the-badge&amp;logo=github&amp;logoColor=FFD49A" alt="Xem tất cả repository" title="Xem tất cả repository" /></a>
 </p>
 
-| Nội dung | Đang tìm hiểu |
-| :--- | :--- |
-| **C++** | |
-
 <br />
 
 <a id="pulse"></a>
