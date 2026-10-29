@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="224" height="68" viewBox="0 0 224 68" role="img" aria-label="04 / KẾT NỐI"><title>04 / KẾT NỐI</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="224" height="68" viewBox="0 0 224 68" role="img" aria-label="04 / Liên hệ"><title>04 / Liên hệ</title>
 <rect x="0.5" y="0.5" width="223" height="67" rx="10" fill="#28313D" stroke="#C59560" stroke-width="1.6"/>
 <text x="18" y="40" font-family="DejaVu Sans Mono,monospace" font-size="12" fill="#FFD49A">04</text>
 <path d="M48 24V44" stroke="#9C7B57"/>
-<text x="62" y="40" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="0.9" fill="#FFFAF0">KẾT NỐI</text>
+<text x="62" y="40" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="0.2" fill="#FFFAF0">Liên hệ</text>
 <path d="M193 30L198 35L193 40 M187 35H198" fill="none" stroke="#FFD49A" stroke-width="1.2"/>
 </svg>
