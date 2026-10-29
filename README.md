@@ -1,31 +1,31 @@
 <a id="top"></a>
 <p align="center">
-  <img src="assets/banner.svg" alt="FAITT — Samurai spirit, learning journey." width="100%" />
+  <img src="assets/banner.svg" alt="FAITT / Personal space — Interstellar edition" width="100%" />
 </p>
 
 <p align="center">
-  <img src="assets/samurai-dragon.webp" alt="Samurai đối diện rồng giữa núi và sương xanh ngọc — ảnh động lặp" width="100%" />
+  <img src="assets/interstellar-black-hole.webp" alt="Hố đen Gargantua với đĩa bồi tụ phát sáng — banner động FAITT / Interstellar" width="100%" />
 </p>
 
 <p align="center">
   <a href="#user-content-about"><img src="assets/nav-about.svg" alt="01 · Về mình" width="170" /></a>
   <a href="#user-content-learning"><img src="assets/nav-learning.svg" alt="02 · Đang học" width="170" /></a>
   <a href="#user-content-play"><img src="assets/nav-play.svg" alt="03 · Câu đố C++" width="170" /></a>
-  <a href="#user-content-connect"><img src="assets/nav-connect.svg" alt="04 · Kết nối" width="170" /></a>
+  <a href="#user-content-connect"><img src="assets/nav-connect.svg" alt="05 · Kết nối" width="170" /></a>
 </p>
 
 <p align="center"><sub>Nhấn menu để khám phá · Bấm ▸ để mở các mục bên dưới</sub></p>
 
 <a id="about"></a>
 
-## 01 / Một chút về mình
+## 01 / Tín hiệu từ mình
 
 ### Chào bạn, mình là FAITT 👋
 
 Mình đang học **C++**, rèn tư duy giải quyết vấn đề và thử những ý tưởng mới qua từng dòng code. Đây là góc nhỏ để mình ghi lại hành trình học hỏi — từng chút một, mỗi ngày.
 
-> **Tĩnh tâm học hỏi. Kiên trì tiến bước.**  
-> Một dòng code. Một bước tiến.
+> **Tò mò dẫn lối. Kiên trì đưa mình đi xa.**  
+> Một dòng code. Một khám phá mới.
 
 <details>
 <summary><b>🌐 Read my introduction in English</b></summary>
@@ -55,12 +55,12 @@ int main() {
 
 <a id="learning"></a>
 
-## 02 / Học hỏi & khám phá
+## 02 / Quỹ đạo học tập
 
 <p>
-  <a href="https://github.com/tai210507?tab=repositories&amp;q=language%3AC%2B%2B"><img src="https://img.shields.io/badge/C%2B%2B-34D9C3?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=06151D" alt="Xem các repository C++" /></a>
-  <a href="https://github.com/tai210507?tab=repositories&amp;q=Lab"><img src="https://img.shields.io/badge/PROBLEM_SOLVING-071D26?style=for-the-badge&amp;logo=thealgorithms&amp;logoColor=57DEEB" alt="Xem các bài Lab" /></a>
-  <a href="https://github.com/tai210507?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-071D26?style=for-the-badge&amp;logo=github&amp;logoColor=34D9C3" alt="Xem tất cả repository" /></a>
+  <a href="https://github.com/tai210507?tab=repositories&amp;q=language%3AC%2B%2B"><img src="https://img.shields.io/badge/C%2B%2B-E6AA67?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=100D0B" alt="Xem các repository C++" /></a>
+  <a href="https://github.com/tai210507?tab=repositories&amp;q=Lab"><img src="https://img.shields.io/badge/PROBLEM_SOLVING-17110D?style=for-the-badge&amp;logo=thealgorithms&amp;logoColor=F1D2A6" alt="Xem các bài Lab" /></a>
+  <a href="https://github.com/tai210507?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-17110D?style=for-the-badge&amp;logo=github&amp;logoColor=E6AA67" alt="Xem tất cả repository" /></a>
 </p>
 
 <sub>Bấm vào từng huy hiệu để khám phá mã nguồn tương ứng.</sub>
@@ -92,7 +92,7 @@ int main() {
 
 <a id="play"></a>
 
-## 03 / Code dojo
+## 03 / Trạm thử C++
 
 **Thử một câu C++ nhỏ nhé:** chương trình này in ra số nào?
 
@@ -125,11 +125,11 @@ Kết quả là **6**: các chữ số được cộng theo thứ tự `3 + 0 + 
 
 <a id="pulse"></a>
 
-## 04 / GitHub pulse
+## 04 / Tín hiệu GitHub
 
 <p>
-  <a href="https://github.com/tai210507?tab=followers"><img src="https://img.shields.io/github/followers/tai210507?style=for-the-badge&amp;label=FOLLOWERS&amp;color=34D9C3&amp;labelColor=071D26&amp;logo=github&amp;logoColor=34D9C3" alt="Số người theo dõi — bấm để xem trên GitHub" /></a>
-  <a href="https://github.com/tai210507?tab=repositories&amp;sort=stargazers"><img src="https://img.shields.io/github/stars/tai210507?style=for-the-badge&amp;label=STARS&amp;color=57DEEB&amp;labelColor=071D26&amp;logo=github&amp;logoColor=57DEEB" alt="Số sao các repo công khai — bấm để xem repository" /></a>
+  <a href="https://github.com/tai210507?tab=followers"><img src="https://img.shields.io/github/followers/tai210507?style=for-the-badge&amp;label=FOLLOWERS&amp;color=E6AA67&amp;labelColor=17110D&amp;logo=github&amp;logoColor=E6AA67" alt="Số người theo dõi — bấm để xem trên GitHub" /></a>
+  <a href="https://github.com/tai210507?tab=repositories&amp;sort=stargazers"><img src="https://img.shields.io/github/stars/tai210507?style=for-the-badge&amp;label=STARS&amp;color=F1D2A6&amp;labelColor=17110D&amp;logo=github&amp;logoColor=F1D2A6" alt="Số sao các repo công khai — bấm để xem repository" /></a>
 </p>
 
 [Khám phá các repository ↗](https://github.com/tai210507?tab=repositories) · [Xem hoạt động đóng góp ↗](https://github.com/tai210507?tab=overview)
@@ -140,11 +140,11 @@ Kết quả là **6**: các chữ số được cộng theo thứ tự `3 + 0 + 
 
 <a id="connect"></a>
 
-## 05 / Để lại một lời chào
+## 05 / Mở kênh kết nối
 
 <p align="center">
   <a href="https://github.com/tai210507?tab=repositories"><img src="assets/card-code.svg" alt="Khám phá mã nguồn của FAITT" width="390" /></a>
-  <a href="https://github.com/tai210507/tai210507/issues/new?template=hello.yml"><img src="assets/card-hello.svg" alt="Gửi lời chào cho FAITT qua GitHub Issues" width="390" /></a>
+  <a href="https://github.com/tai210507/tai210507/issues/new?template=hello.yml"><img src="assets/card-hello.svg" alt="Gửi một tín hiệu cho FAITT qua GitHub Issues" width="390" /></a>
 </p>
 
 **Có chung hứng thú với lập trình?** Bạn có thể gửi lời chào, góp ý cho profile hoặc chia sẻ một điều vừa học được.
@@ -153,8 +153,9 @@ Kết quả là **6**: các chữ số được cộng theo thứ tự `3 + 0 + 
 
 <sub>Lời nhắn được đăng công khai bằng tài khoản GitHub của bạn sau khi bạn nhấn tạo issue.</sub>
 
-<p align="center"><sub>Samurai artwork: Your Live Wallpaper · <a href="ASSET-SOURCES.md">Visual credits</a></sub></p>
+<p align="center"><sub>Interstellar / Gargantua · <a href="ASSET-SOURCES.md">Visual credits</a></sub></p>
 
 <br />
-<p align="center"><img src="assets/footer.svg" alt="Thanks for stopping by. Keep learning. Keep building." width="100%" /></p>
+<p align="center"><img src="assets/footer.svg" alt="The journey continues — Keep learning. Keep exploring." width="100%" /></p>
+
 
