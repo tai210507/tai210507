@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="320" height="56" viewBox="0 0 320 56" role="img" aria-label="01 / Về mình">
-<title>01 / Về mình</title>
-<rect width="320" height="56" rx="10" fill="#101216"/>
-<rect x="14" y="12" width="34" height="32" rx="8" fill="#24221F"/>
-<text x="31" y="33" text-anchor="middle" font-family="DejaVu Sans Mono,monospace" font-size="13" fill="#D9B98F">01</text>
-<text x="64" y="35" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="600" fill="#E7E5E1">Về mình</text>
-<path d="M245 28H298" stroke="#2A2D32"/>
-<circle cx="299" cy="28" r="3" fill="#D9B98F"/>
-</svg>

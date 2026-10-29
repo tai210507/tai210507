@@ -8,67 +8,154 @@
 </p>
 
 <p align="center">
-  <a href="#user-content-about">01 · Mình</a> &nbsp; / &nbsp;
-  <a href="#user-content-learning">02 · Học</a> &nbsp; / &nbsp;
-  <a href="#user-content-play">03 · Chơi</a> &nbsp; / &nbsp;
-  <a href="#user-content-pulse">04 · GitHub</a> &nbsp; / &nbsp;
-  <a href="#user-content-connect">05 · Kết nối</a>
+  <a href="#user-content-about"><img src="assets/nav-about.svg" alt="01 · Về mình" width="170" /></a>
+  <a href="#user-content-learning"><img src="assets/nav-learning.svg" alt="02 · Đang học" width="170" /></a>
+  <a href="#user-content-play"><img src="assets/nav-play.svg" alt="03 · Câu đố C++" width="170" /></a>
+  <a href="#user-content-connect"><img src="assets/nav-connect.svg" alt="05 · Kết nối" width="170" /></a>
 </p>
 
-<br />
+<p align="center"><sub>Nhấn menu để khám phá · Bấm ▸ để mở các mục bên dưới</sub></p>
 
 <a id="about"></a>
-<p><img src="assets/section-about.svg" alt="01 / Về mình" width="320" /></p>
 
-**FAITT** 👋 · Học C++, thích giải bài toán và thử những ý tưởng nhỏ.
+## 01 / Tín hiệu từ mình
+
+### Chào bạn, mình là FAITT 👋
+
+Mình đang học **C++**, rèn tư duy giải quyết vấn đề và thử những ý tưởng mới qua từng dòng code. Đây là góc nhỏ để mình ghi lại hành trình học hỏi — từng chút một, mỗi ngày.
+
+> **Tò mò dẫn lối. Kiên trì đưa mình đi xa.**  
+> Một dòng code. Một khám phá mới.
+
+<details>
+<summary><b>🌐 Read my introduction in English</b></summary>
+
+Hi, I'm **FAITT**, also known as **@tai210507**. I'm learning C++ and practicing problem solving, one exercise at a time. This is my small space to learn, experiment and keep building.
+
+**Still learning. Still curious. Still building.**
+
+</details>
+
+<details>
+<summary><b>⌨️ Một lời chào bằng C++</b></summary>
+
+```cpp
+#include <iostream>
+
+int main() {
+    std::cout << "Hi, I'm FAITT.\n";
+    std::cout << "Still learning. Still building.\n";
+    return 0;
+}
+```
+
+</details>
 
 <br />
 
 <a id="learning"></a>
-<p><img src="assets/section-learning.svg" alt="02 / Đang học" width="320" /></p>
+
+## 02 / Quỹ đạo học tập
 
 <p>
-  <a href="https://github.com/tai210507?tab=repositories&amp;q=language%3AC%2B%2B"><img src="https://img.shields.io/badge/C%2B%2B-D9B98F?style=flat-square&amp;logo=cplusplus&amp;logoColor=17191E" alt="C++ · Xem mã nguồn" /></a>
-  &nbsp;
-  <a href="https://github.com/tai210507?tab=repositories&amp;q=Lab"><img src="https://img.shields.io/badge/Problem_solving-24272D?style=flat-square&amp;logo=thealgorithms&amp;logoColor=D9B98F" alt="Problem solving · Xem bài Lab" /></a>
-  &nbsp;
-  <a href="https://github.com/tai210507?tab=repositories"><img src="https://img.shields.io/badge/Git_%26_GitHub-24272D?style=flat-square&amp;logo=github&amp;logoColor=D9B98F" alt="Git và GitHub · Xem repository" /></a>
+  <a href="https://github.com/tai210507?tab=repositories&amp;q=language%3AC%2B%2B"><img src="https://img.shields.io/badge/C%2B%2B-E6AA67?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=100D0B" alt="Xem các repository C++" /></a>
+  <a href="https://github.com/tai210507?tab=repositories&amp;q=Lab"><img src="https://img.shields.io/badge/PROBLEM_SOLVING-17110D?style=for-the-badge&amp;logo=thealgorithms&amp;logoColor=F1D2A6" alt="Xem các bài Lab" /></a>
+  <a href="https://github.com/tai210507?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-17110D?style=for-the-badge&amp;logo=github&amp;logoColor=E6AA67" alt="Xem tất cả repository" /></a>
 </p>
+
+<sub>Bấm vào từng huy hiệu để khám phá mã nguồn tương ứng.</sub>
+
+<details open>
+<summary><b>📚 Mình đang tập trung vào điều gì?</b></summary>
+
+| Hướng học tập | Mục tiêu |
+| :--- | :--- |
+| **C++ nền tảng** | Hiểu cách chương trình hoạt động, thực hành qua bài tập |
+| **Giải quyết vấn đề** | Chia bài toán thành các bước nhỏ, kiểm tra cách giải |
+| **GitHub** | Lưu trữ mã nguồn và ghi lại quá trình học hỏi |
+
+</details>
+
+<details>
+<summary><b>🧭 Cách mình tiếp cận một bài toán</b></summary>
+
+1. Đọc đề và xác định đầu vào, đầu ra.
+2. Thử một ví dụ nhỏ bằng tay.
+3. Viết từng bước xử lý rồi chuyển thành code.
+4. Kiểm tra các trường hợp đặc biệt và sửa lỗi.
+
+*Đây là cách mình hướng tới khi luyện tập — tiến bộ từng chút một.*
+
+</details>
 
 <br />
 
 <a id="play"></a>
-<p><img src="assets/section-play.svg" alt="03 / Chơi một chút" width="320" /></p>
 
-Đoán kết quả: `17 % 5` → **?**
+## 03 / Trạm thử C++
+
+**Thử một câu C++ nhỏ nhé:** chương trình này in ra số nào?
+
+```cpp
+int n = 1203, sum = 0;
+while (n > 0) {
+    sum += n % 10;
+    n /= 10;
+}
+std::cout << sum;
+```
 
 <details>
-<summary>Xem đáp án ↗</summary>
+<summary><b>💡 Mở gợi ý</b></summary>
 
-**2** — phần dư của `17 / 5`.
+`n % 10` lấy chữ số cuối. Với số nguyên dương, `n /= 10` bỏ chữ số cuối đó.
+
+</details>
+
+<details>
+<summary><b>✨ Mở đáp án</b></summary>
+
+Kết quả là **6**: các chữ số được cộng theo thứ tự `3 + 0 + 2 + 1`.
+
+Đoạn code giả sử đã có `#include <iostream>` và được đặt trong `main()`.
 
 </details>
 
 <br />
 
 <a id="pulse"></a>
-<p><img src="assets/section-pulse.svg" alt="04 / Trên GitHub" width="320" /></p>
+
+## 04 / Tín hiệu GitHub
 
 <p>
-  <a href="https://github.com/tai210507?tab=followers"><img src="https://img.shields.io/github/followers/tai210507?style=flat-square&amp;label=Followers&amp;color=D9B98F&amp;labelColor=24272D&amp;logo=github&amp;logoColor=D9B98F" alt="Người theo dõi" /></a>
-  &nbsp;
-  <a href="https://github.com/tai210507?tab=repositories&amp;sort=stargazers"><img src="https://img.shields.io/github/stars/tai210507?style=flat-square&amp;label=Stars&amp;color=D9B98F&amp;labelColor=24272D&amp;logo=github&amp;logoColor=D9B98F" alt="Sao trên GitHub" /></a>
-  &nbsp; · &nbsp; <a href="https://github.com/tai210507?tab=overview">Hoạt động ↗</a>
+  <a href="https://github.com/tai210507?tab=followers"><img src="https://img.shields.io/github/followers/tai210507?style=for-the-badge&amp;label=FOLLOWERS&amp;color=E6AA67&amp;labelColor=17110D&amp;logo=github&amp;logoColor=E6AA67" alt="Số người theo dõi — bấm để xem trên GitHub" /></a>
+  <a href="https://github.com/tai210507?tab=repositories&amp;sort=stargazers"><img src="https://img.shields.io/github/stars/tai210507?style=for-the-badge&amp;label=STARS&amp;color=F1D2A6&amp;labelColor=17110D&amp;logo=github&amp;logoColor=F1D2A6" alt="Số sao các repo công khai — bấm để xem repository" /></a>
 </p>
+
+[Khám phá các repository ↗](https://github.com/tai210507?tab=repositories) · [Xem hoạt động đóng góp ↗](https://github.com/tai210507?tab=overview)
+
+<sub>Huy hiệu lấy dữ liệu công khai từ GitHub qua Shields.io và có thể cập nhật chậm do bộ nhớ đệm.</sub>
 
 <br />
 
 <a id="connect"></a>
-<p><img src="assets/section-connect.svg" alt="05 / Kết nối" width="320" /></p>
+
+## 05 / Mở kênh kết nối
 
 <p align="center">
-  <a href="https://github.com/tai210507?tab=repositories"><img src="assets/card-code.svg" alt="Khám phá mã nguồn" width="390" /></a>
-  <a href="https://github.com/tai210507/tai210507/issues/new?template=hello.yml"><img src="assets/card-hello.svg" alt="Gửi lời chào qua GitHub Issues" width="390" /></a>
+  <a href="https://github.com/tai210507?tab=repositories"><img src="assets/card-code.svg" alt="Khám phá mã nguồn của FAITT" width="390" /></a>
+  <a href="https://github.com/tai210507/tai210507/issues/new?template=hello.yml"><img src="assets/card-hello.svg" alt="Gửi một tín hiệu cho FAITT qua GitHub Issues" width="390" /></a>
 </p>
 
-<p align="center"><sub><a href="https://github.com/tai210507/tai210507/issues?q=is%3Aissue%20%22Hello%22%20in%3Atitle">Lời nhắn công khai</a> &nbsp; · &nbsp; <a href="#user-content-top">↑ Lên đầu</a> &nbsp; · &nbsp; <a href="ASSET-SOURCES.md">Visual credits</a></sub></p>
+**Có chung hứng thú với lập trình?** Bạn có thể gửi lời chào, góp ý cho profile hoặc chia sẻ một điều vừa học được.
+
+[✉️ Viết lời chào](https://github.com/tai210507/tai210507/issues/new?template=hello.yml) · [💬 Đọc các lời nhắn](https://github.com/tai210507/tai210507/issues?q=is%3Aissue%20%22Hello%22%20in%3Atitle) · [↑ Về đầu trang](#user-content-top)
+
+<sub>Lời nhắn được đăng công khai bằng tài khoản GitHub của bạn sau khi bạn nhấn tạo issue.</sub>
+
+<p align="center"><sub>Interstellar / Gargantua · <a href="ASSET-SOURCES.md">Visual credits</a></sub></p>
+
+<br />
+<p align="center"><img src="assets/footer.svg" alt="The journey continues — Keep learning. Keep exploring." width="100%" /></p>
+
+
