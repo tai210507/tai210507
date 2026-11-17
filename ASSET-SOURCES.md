@@ -15,3 +15,9 @@ Follower and star badges use public GitHub data served by Shields.io. They may u
 ## Portfolio button
 
 The banner includes a navigation-style Portfolio button below the C++ / Problem Solving / Curiosity line. GitHub README image links apply to the full banner, so clicking the button or the banner opens the portfolio. The animation retains its original 1200 × 900 dimensions, 65 frames and 6.5-second loop.
+
+## Typewriter title
+
+`assets/interstellar-typewriter-banner.webp` uses the same user-supplied recording and editable SVG overlay. The pixel title appears one complete glyph at a time: F → FA → FAI → FAIT → FAITT, with 300 ms between glyphs and a blinking cursor. The full title stays visible for 5 seconds before the 6.5-second loop restarts. The background and Portfolio button retain the existing layout.
+
+The animation is rendered into the WebP frames so it works in a GitHub README. Rebuild it with `python scripts/render_typewriter.py /path/to/original-recording.mp4`; the script requires Pillow, FFmpeg, and Node.js with `sharp` installed. The original recording remains outside the repository. `assets/interstellar-portfolio-banner.webp` is retained as the previous version.

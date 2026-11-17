@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://faitt-interstellar.windydrake13.chatgpt.site/" title="Mở website portfolio của FAITT"><img src="assets/interstellar-portfolio-banner.webp" alt="FAITT — banner Interstellar với nút Portfolio dưới dòng C++ / Problem Solving / Curiosity" width="100%" /></a>
+  <a href="https://faitt-interstellar.windydrake13.chatgpt.site/" title="Mở website portfolio của FAITT"><img src="assets/interstellar-typewriter-banner.webp" alt="FAITT — chữ pixel hiện lần lượt F → FA → FAI → FAIT → FAITT trên nền Interstellar, kèm nút Portfolio" width="100%" /></a>
 </p>
 
 <p align="center">
